@@ -13168,10 +13168,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 503809169}
     m_Modifications:
-    - target: {fileID: 705318187586076703, guid: 6c3c0bfa92038bd4aa725e80a43ced1e, type: 3}
-      propertyPath: bowReleaseSound
-      value: 
-      objectReference: {fileID: 8300000, guid: 6ac42f2df6b257746860b36e7d6355b1, type: 3}
     - target: {fileID: 2589571369817754473, guid: 6c3c0bfa92038bd4aa725e80a43ced1e, type: 3}
       propertyPath: m_Name
       value: Bow
